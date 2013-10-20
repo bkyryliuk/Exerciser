@@ -129,7 +129,7 @@
       <file leaf-file-name="MatchExercise.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gma/exerciser/MatchExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="76" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.615942" vertical-offset="0" max-vertical-offset="1905">
+            <state line="26" column="4" selection-start="794" selection-end="794" vertical-scroll-proportion="0.39855072" vertical-offset="0" max-vertical-offset="1905">
               <folding />
             </state>
           </provider>
@@ -472,7 +472,11 @@
       <created>1382251053219</created>
       <updated>1382251053219</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1382251146520</created>
+      <updated>1382251146520</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -675,7 +679,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gma/exerciser/MatchExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="76" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.615942" vertical-offset="0" max-vertical-offset="1905">
+        <state line="26" column="4" selection-start="794" selection-end="794" vertical-scroll-proportion="0.39855072" vertical-offset="0" max-vertical-offset="1905">
           <folding />
         </state>
       </provider>
