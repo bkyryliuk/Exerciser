@@ -16,7 +16,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.Toast;
-// test
+
 public class MatchExercise extends ExerciseActivity {
 
 	private LessonLogic logic;
