@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="num_exercise">20</integer>
+    <integer name="dummy_int">5</integer>
+    <integer name="exercise_in_lesson"> 4 </integer>
+    <integer name="exercise_time"> 30 </integer>
+    <integer name="exercise_match_words_number"> 6 </integer>
+    <integer name="exercise_single_choice_variants_number"> 6 </integer>
+    
+</resources>
