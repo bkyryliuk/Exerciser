@@ -31,7 +31,7 @@ public class MatchExercise extends ExerciseActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		this.onCreate(savedInstanceState, R.layout.activity_match_exercise);
-		
+
 		ListView listView1 = (ListView) findViewById(R.id.match_list_originals);
 		ListView listView2 = (ListView) findViewById(R.id.match_list_translations);
 		
