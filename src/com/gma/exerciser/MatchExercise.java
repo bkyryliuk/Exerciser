@@ -1,12 +1,5 @@
 package com.gma.exerciser;
 
-import java.util.ArrayList;
-import java.util.Random;
-
-import com.gma.exerciser.LearningLogic.FinishLessonDialog;
-import com.gma.exerciser.LearningLogic.LessonLogic;
-import com.gma.exerciser.LearningLogic.Exercises.MatchExerciseData;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
@@ -16,6 +9,13 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.Toast;
+
+import com.gma.exerciser.LearningLogic.Exercises.MatchExerciseData;
+import com.gma.exerciser.LearningLogic.FinishLessonDialog;
+import com.gma.exerciser.LearningLogic.LessonLogic;
+
+import java.util.ArrayList;
+import java.util.Random;
 
 public class MatchExercise extends ExerciseActivity {
 

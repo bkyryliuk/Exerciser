@@ -1,18 +1,17 @@
 package com.gma.exerciser.LearningLogic;
 
-import com.gma.exerciser.MainMenu;
-import com.gma.exerciser.R;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.Button;
+
+import com.gma.exerciser.MainMenu;
+import com.gma.exerciser.R;
 
 
 public class FinishLessonDialog extends DialogFragment implements OnClickListener  {

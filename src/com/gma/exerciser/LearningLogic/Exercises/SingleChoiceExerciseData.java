@@ -1,15 +1,15 @@
 package com.gma.exerciser.LearningLogic.Exercises;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Random;
-
 import android.content.res.Resources;
 import android.util.Log;
 
-import com.gma.exerciser.R;
 import com.gma.exerciser.DAO.DictionaryDAO;
 import com.gma.exerciser.Pojo.Word;
+import com.gma.exerciser.R;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Random;
 
 public class SingleChoiceExerciseData extends ExerciseData {
 	// are in the same order as words

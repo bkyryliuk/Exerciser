@@ -1,13 +1,13 @@
 package com.gma.exerciser.DAO;
 
-import java.util.Calendar;
-import java.util.Date;
-
 import android.content.Context;
 
 import com.gma.exerciser.LearningLogic.Exercises.ExerciseData;
 import com.gma.exerciser.Pojo.ExerciseLog;
 import com.gma.exerciser.Pojo.Word;
+
+import java.util.Calendar;
+import java.util.Date;
 
 public class StatisticsDAO {
 	private DBAccess db;

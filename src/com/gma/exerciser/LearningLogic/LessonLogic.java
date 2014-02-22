@@ -5,10 +5,10 @@ import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.content.res.Resources;
 
-import com.gma.exerciser.R;
 import com.gma.exerciser.DAO.DictionaryDAO;
 import com.gma.exerciser.DAO.StatisticsDAO;
 import com.gma.exerciser.LearningLogic.Exercises.ExerciseData;
+import com.gma.exerciser.R;
 
 public class LessonLogic {
 

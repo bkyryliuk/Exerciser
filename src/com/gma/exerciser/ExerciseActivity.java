@@ -1,14 +1,14 @@
 package com.gma.exerciser;
 
-import com.gma.exerciser.LearningLogic.LessonLogic;
-import com.gma.exerciser.LearningLogic.Exercises.ExerciseData;
-
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.support.v4.app.FragmentActivity;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-import android.widget.AdapterView.OnItemClickListener;
+
+import com.gma.exerciser.LearningLogic.Exercises.ExerciseData;
+import com.gma.exerciser.LearningLogic.LessonLogic;
 
 public abstract class ExerciseActivity extends FragmentActivity implements OnItemClickListener {
 

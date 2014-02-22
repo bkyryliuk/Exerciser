@@ -1,9 +1,9 @@
 package com.gma.exerciser.DAO;
 
-import java.util.ArrayList;
-
 import com.gma.exerciser.Pojo.Dictionary;
 import com.gma.exerciser.Pojo.Word;
+
+import java.util.ArrayList;
 
 public class DictionaryDAO {
 

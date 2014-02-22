@@ -1,10 +1,10 @@
 package com.gma.exerciser.Statistics;
 
-import java.util.Date;
-
 import com.gma.exerciser.Pojo.Dictionary;
 import com.gma.exerciser.Pojo.ExerciseLog;
 import com.gma.exerciser.Pojo.Word;
+
+import java.util.Date;
 
 public class ProgressCalc {
 

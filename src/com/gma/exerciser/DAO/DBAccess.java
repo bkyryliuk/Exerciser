@@ -1,11 +1,11 @@
 package com.gma.exerciser.DAO;
 
-import com.gma.exerciser.Pojo.ExerciseLog;
-
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+
+import com.gma.exerciser.Pojo.ExerciseLog;
 
 public class DBAccess extends SQLiteOpenHelper {
 

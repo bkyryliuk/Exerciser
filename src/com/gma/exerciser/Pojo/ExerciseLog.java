@@ -1,7 +1,5 @@
 package com.gma.exerciser.Pojo;
 
-import java.util.Date;
-
 public class ExerciseLog {
 
 	private int id;

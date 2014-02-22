@@ -1,14 +1,14 @@
 package com.gma.exerciser.LearningLogic.Exercises;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Map.Entry;
-
 import android.content.res.Resources;
 
 import com.gma.exerciser.DAO.DictionaryDAO;
 import com.gma.exerciser.Pojo.Word;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
 
 public abstract class ExerciseData {
  private ArrayList<Word> words = new ArrayList<Word>(); // can be from 1 to N
